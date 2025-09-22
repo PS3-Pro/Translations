@@ -1499,7 +1499,7 @@ Wenn ein neues Update verfügbar ist, erscheint ein orangefarbenes Symbol.</Text
 	<Text name="msg_essential_apps_compatibility_psp">PlayStation®Portable-Kompatibilitätsliste</Text>
 	<Text name="info_essential_apps_compatibility_psp">Zeigt die PSP™-Kompatibilitätsliste an.</Text>
 
-        <Text name="msg_essential_apps_ps3">PlayStation®3-Essentials</Text>
+    <Text name="msg_essential_apps_ps3">PlayStation®3-Essentials</Text>
 	<Text name="info_essential_apps_ps3">Installiert essentielle Anwendungen, um das Beste aus der PS3™ herauszuholen.</Text>
 	<Text name="info_essential_multiman">Installiert einen PS3™-Sicherungsmanager, um Ihre Titel-Backups zu starten.</Text>
 	<Text name="info_essential_prepiso">Installiert eine Homebrew-Anwendung, die Dateien auf externen Laufwerken mit nicht unterstützten Dateisystemen, wie exFAT und NTFS, zur Verwendung mit Sicherungsmanagern liest.</Text>
