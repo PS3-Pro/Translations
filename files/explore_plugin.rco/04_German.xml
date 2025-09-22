@@ -1140,7 +1140,7 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="msg_health_warning_detail_sceasia_14">・If you experience any of the following health problems, discontinue use of the system immediately. If symptoms persist, consult with your physician.
 - Dizziness, nausea, fatigue or symptoms similar to motion sickness
 - Discomfort or pain in a part of the body, such as eyes, ears, hands or arms</Text>
-        <Text name="msg_reboot">System neu starten</Text>
+    <Text name="msg_reboot">System neu starten</Text>
 	<Text name="info_reboot">Optionen für den Systemneustart.</Text>
 	<Text name="msg_advanced_power_options">Erweiterte Optionen</Text>
 	<Text name="info_advanced_power_options">Datenbank neu aufbauen, Dateisystemprüfung und Wiederherstellungsmodus.</Text>
@@ -1198,7 +1198,7 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="msg_dump_tools">Sicherungswerkzeuge</Text>
 	<Text name="msg_recovery_menu">Service-Tools</Text>
 	<Text name="info_recovery_menu">Einstellungen, die nur fortgeschrittenen Benutzern vorbehalten sind.</Text>
-        <Text name="msg_ingame_settings">In-Game-Einstellungen</Text>
+    <Text name="msg_ingame_settings">In-Game-Einstellungen</Text>
 	<Text name="info_ingame_settings">Aktiviert spezielle Funktionen während des Spiels.</Text>
 	<Text name="msg_dev_blind_toggle">Flash-Speicherzugriff</Text>
 	<Text name="info_dev_blind_toggle">Aktiviert/Deaktiviert den Schreibzugriff auf den Flash-Speicher.</Text>
@@ -1298,7 +1298,7 @@ Hinweis: Erfordert das Wechseln in den Factory Service Mode.</Text>
 	<Text name="info_homebrew_install">Installiert aus dem Ordner „/PS3/DOWNLOADS“ auf Massenspeichergeräten.</Text>
 	<Text name="msg_install_files_hdd0">Systemspeicher</Text>
 	<Text name="msg_install_files_usb">Paketordner</Text>
-        <Text name="info_install_files_usb">Installiert aus dem Ordner „/packages“ auf Massenspeichergeräten.</Text>
+    <Text name="info_install_files_usb">Installiert aus dem Ordner „/packages“ auf Massenspeichergeräten.</Text>
 	<Text name="msg_install_files_og">Standard-Paketstandort</Text>
 	<Text name="info_install_files_og">Installiert aus dem Stammverzeichnis von Massenspeichergeräten.</Text>
 	<Text name="msg_package_files_delete">Paketdateien löschen</Text>
@@ -1398,7 +1398,7 @@ Hinweis: Erfordert das Wechseln in den Factory Service Mode.</Text>
 	<Text name="info_icons_hdd">Kopiert diese modifizierte „icontex.qrc“ nach „dev_blind/vsh/resource/qgl/“.</Text>
 	<Text name="info_install_gameboot">Auswahl von Gameboots, die sofort installiert werden können.</Text>
 	<Text name="info_gameboot_usb">Kopiert die „custom_render_plugin.rco“, „gameboot_multi.ac3“ und „gameboot_stereo.ac3“ aus dem Stammverzeichnis von „dev_usb000/“ nach „dev_blind/vsh/resource/“.</Text>
-        <Text name="msg_gameboot_hdd">Gameboot installieren</Text>
+    <Text name="msg_gameboot_hdd">Gameboot installieren</Text>
 	<Text name="info_gameboot_hdd">Kopiert diese modifizierte "custom_render_plugin.rco", "gameboot_multi.ac3" und "gameboot_stereo.ac3" nach "dev_blind/vsh/resource/".</Text>
 	<Text name="info_install_system_sounds">Auswahl von System-Sounds, die sofort installiert werden können.</Text>
 	<Text name="info_system_sounds_usb">Kopiert die "system_plugin.rco" aus dem Stammverzeichnis von "dev_usb000/" nach "dev_blind/vsh/resource/".</Text>
@@ -1598,7 +1598,7 @@ Drücken Sie , um fortzufahren und in den FSM-Modus neu zu starten, drücken 
 	<Text name="info_unlock_savedata">Schaltet geschützte gespeicherte Daten frei und ermöglicht die Übertragung über USB-Geräte.</Text>
 	<Text name="info_install_system_buttons">Auswahl von System-Buttons, die sofort installiert werden können.</Text>
 	<Text name="info_system_buttons_usb">Kopiert die „system_plugin.rco“ und „impose.rco“ aus dem Stammverzeichnis von „dev_usb000/“ nach „dev_blind/vsh/resource/“.</Text>
-        <Text name="msg_system_buttons_hdd">System-Tasten installieren</Text>
+    <Text name="msg_system_buttons_hdd">System-Tasten installieren</Text>
 	<Text name="info_system_buttons_hdd">Kopiert diese modifizierte „system_plugin.rco“ und „impose.rco“ nach „dev_blind/vsh/resource/“.</Text>
 	<Text name="info_install_hen_logo">Auswahl von HEN-Logos, die sofort installiert werden können.</Text>
 	<Text name="msg_psp_minis_launcher">PSP™ Minis-Launcher</Text>
@@ -1698,7 +1698,7 @@ Drücken Sie , um fortzufahren und in den FSM-Modus neu zu starten, drücken 
 Hinweis: Nur für Debugging-Zwecke nützlich.</Text>
 	<Text name="info_installed_bdvd"><![CDATA[Alle installierten Blu-ray- & DVD-Inhalte installiert.]]></Text>
 	<Text name="info_plugin_apply_changes">Startet das System neu, damit die Änderungen wirksam werden.</Text>
-        <Text name="msg_plugin_disable_all">Alle Plugins deaktivieren</Text>
+    <Text name="msg_plugin_disable_all">Alle Plugins deaktivieren</Text>
 	<Text name="info_plugin_disable_all">Deaktiviert alle benutzerdefinierten System-Plugins.</Text>
 	<Text name="msg_plugin_disable_all_item">Alle Plugins deaktivieren?</Text>
 	<Text name="msg_xmb_music_preview">Systemmusik-Vorschau</Text>
@@ -1898,7 +1898,7 @@ Genießen Sie das volle Potenzial Ihrer PS3™ 4K Pro.</Text>
 	<Text name="info_essential_ps2_system_data">Installiert die PS2™-Systemdaten, um Spiele zu unterstützen, die Zugriff auf den Systemspeicher benötigen.</Text>
 	<Text name="info_essential_psp_adhoc_party">Installiert eine Anwendung, um die Konsole als Link-Server zu verwenden, um Ihr PSP™-System mit anderen an verschiedenen Orten zu verbinden.</Text>
 	<Text name="info_essential_webman">Installiert den vollständigsten Sicherungsmanager mit zusätzlichen Funktionen.</Text>
-        <Text name="info_essential_apps_maintenance">Installiert essentielle Anwendungen, um das System reibungslos am Laufen zu halten.</Text>
+    <Text name="info_essential_apps_maintenance">Installiert essentielle Anwendungen, um das System reibungslos am Laufen zu halten.</Text>
 	<Text name="info_essential_wipe_history">Installiert eine Anwendung, die den gesamten System-Boot-Verlauf löscht.</Text>
 	<Text name="info_essential_fan_utility">Installiert eine Anwendung, die die Lüftergeschwindigkeit steuert, um das System auf sicheren Temperaturen zu halten.</Text>
 	<Text name="info_essential_ftp_server">Installiert eine Anwendung, die FTP-Verbindungen zum System ermöglicht.</Text>
@@ -1998,7 +1998,7 @@ Hinweis: Kopieren Sie keine gespeicherten Daten an dieses Ziel, während Sie von
 	<Text name="info_debug_menu_mode">Wechselt zwischen CEX- und DEX-Debug-Einstellungen.</Text>
 	<Text name="msg_xregistry_tools">xRegistry-Tools</Text>
 	<Text name="info_xregistry_tools">Verschiedene Tools zur Änderung der System-Registrierung.</Text>
-        <Text name="msg_show_accountid">Konto-ID anzeigen</Text>
+    <Text name="msg_show_accountid">Konto-ID anzeigen</Text>
 	<Text name="info_show_accountid">Zeigt die Konto-ID des aktuellen Benutzers an.</Text>
 	<Text name="msg_create_accountid">Konto-ID erstellen</Text>
 	<Text name="info_create_accountid">Erstellt eine gefälschte Konto-ID für den aktuellen Benutzer in der Registrierung.</Text>
@@ -2098,7 +2098,7 @@ Hinweis: Inhalte von Musik, Fotos und Videos, die aus dem Internet heruntergelad
 	<Text name="msg_reboot_options_extra">Zusätzliche Option</Text>
 	<Text name="info_reboot_options_extra">Fügt eine Neustart-Option mit zusätzlichen Funktionen hinzu, wie z.B. XMB™ neu laden.</Text>
 	<Text name="msg_reboot_options_advanced">Erweiterte Option</Text>
-        <Text name="info_reboot_options_advanced">Fügt eine Neustart-Option mit zusätzlichen und erweiterten Funktionen hinzu, wie z.B. XMB™ neu laden, Datenbank neu aufbauen, Wiederherstellungsmenü usw.</Text>
+    <Text name="info_reboot_options_advanced">Fügt eine Neustart-Option mit zusätzlichen und erweiterten Funktionen hinzu, wie z.B. XMB™ neu laden, Datenbank neu aufbauen, Wiederherstellungsmenü usw.</Text>
 	<Text name="msg_reboot_options_simple_item">Einfache Neustart-Option aktivieren?</Text>
 	<Text name="msg_reboot_options_extra_item">Zusätzliche Neustart-Option aktivieren?</Text>
 	<Text name="msg_reboot_options_advanced_item">Erweiterte Neustart-Option aktivieren?</Text>
@@ -2198,7 +2198,7 @@ Hinweis: Nur für fortgeschrittene Benutzer, die die Risiken verstehen. Diese To
 	<Text name="info_tool_downloader">Lädt System-Tool-Anwendungen herunter und installiert sie.</Text>
 	<Text name="info_ps3_game_downloader">Lädt PlayStation®3-Spiele herunter und installiert sie.</Text>
 	<Text name="info_ps2_game_downloader">Lädt PlayStation®2-Spiele herunter und installiert sie.</Text>
-        <Text name="info_psx_game_downloader">Lädt PlayStation®-Spiele herunter und installiert sie.</Text>
+    <Text name="info_psx_game_downloader">Lädt PlayStation®-Spiele herunter und installiert sie.</Text>
 	<Text name="info_psp_game_downloader">Lädt PlayStation®Portable-Spiele herunter und installiert sie.</Text>
 	<Text name="msg_dlc_game_downloader">Herunterladbare Inhalte (DLC)</Text>
 	<Text name="info_dlc_game_downloader">Lädt zusätzliche Spielinhalte herunter und installiert sie.</Text>
@@ -2298,7 +2298,7 @@ Hinweis: Laden Sie es in "dev_hdd0/PS2ISO/" herunter.</Text>
 	<Text name="msg_webman_fan_speed_45">Lüftergeschwindigkeit: 45%</Text>
 	<Text name="info_webman_fan_speed_45">Setzt die Lüftergeschwindigkeit auf 45%.</Text>
 	<Text name="msg_webman_fan_speed_50">Lüftergeschwindigkeit: 50%</Text>
-        <Text name="info_webman_fan_speed_50">Stellt die Lüftergeschwindigkeit auf 50% ein.</Text>
+    <Text name="info_webman_fan_speed_50">Stellt die Lüftergeschwindigkeit auf 50% ein.</Text>
 	<Text name="msg_webman_fan_speed_55">Lüftergeschwindigkeit: 55%</Text>
 	<Text name="info_webman_fan_speed_55">Stellt die Lüftergeschwindigkeit auf 55% ein.</Text>
 	<Text name="msg_webman_fan_speed_60">Lüftergeschwindigkeit: 60%</Text>
@@ -2398,7 +2398,7 @@ Hinweis: Sie können sich nicht beim PlayStation™Network anmelden.</Text>
 	<Text name="info_webman_nethost1_theme">Mountet nur „/net1/THEME“ als „dev_bdvd/“.</Text>
 	<Text name="info_webman_nethost1_roms">Mountet nur „/net1/ROMS“ als „dev_bdvd/“.</Text>
 	<Text name="info_webman_nethost1_pup">Mountet nur „/net1/FIRMWARE“ als „dev_bdvd/“.</Text>
-        <Text name="info_webman_nethost2">Mountet alle Inhalte von "/net2" als "dev_bdvd/".</Text>
+    <Text name="info_webman_nethost2">Mountet alle Inhalte von "/net2" als "dev_bdvd/".</Text>
 	<Text name="info_webman_nethost2_pkg">Mountet nur "/net2/PKG" als "dev_bdvd/".</Text>
 	<Text name="info_webman_nethost2_video">Mountet nur "/net2/VIDEO" als "dev_bdvd/".</Text>
 	<Text name="info_webman_nethost2_music">Mountet nur "/net2/MUSIC" als "dev_bdvd/".</Text>
@@ -2599,7 +2599,7 @@ Achtung: Funktionen, die vom Plugin abhängen, werden deaktiviert.</Text>
 	<Text name="msg_install_keyboard_style">Tastatur-Stil</Text>
 	<Text name="info_install_keyboard_style">Auswahl an Tastatur-Stilen, die sofort installiert werden können.</Text>
 	<Text name="info_keyboard_style_usb">Kopiert die "oskfullkeypanel_plugin.rco", "oskpanel_plugin.rco" und "osk_plugin.rco" aus dem Stammverzeichnis von "dev_usb000/" nach "dev_blind/vsh/resource/".</Text>
-        <Text name="msg_keyboard_style_hdd">Tastatur-Stil installieren</Text>
+    <Text name="msg_keyboard_style_hdd">Tastatur-Stil installieren</Text>
 	<Text name="info_keyboard_style_hdd">Kopiert diese modifizierte "oskfullkeypanel_plugin.rco", "oskpanel_plugin.rco" und "osk_plugin.rco" nach "dev_blind/vsh/resource/".</Text>
 	<Text name="msg_install_impose_screen">Status-Bildschirm</Text>
 	<Text name="info_install_impose_screen">Auswahl an Status-Bildschirmen, die sofort installiert werden können.</Text>
@@ -2699,7 +2699,7 @@ Achtung: Funktionen, die vom Plugin abhängen, werden deaktiviert.</Text>
 	<Text name="info_plugin_rainbow_xmb">Ändert die Farbe der Elemente auf dem XMB™.</Text>
 	<Text name="info_online_game_server_master_mod">Angepasster Online-Spieleserver, der für Gran Turismo 5 bestimmt ist.</Text>
 	<Text name="msg_online_game_server_master_mod_intaller">Master-Mod</Text>
-        <Text name="info_online_game_server_master_mod_intaller">Installiert ein vollständiges Feature-Paket, das die Spielfunktionen verbessert und den Online-Spielmodus ermöglicht*.
+    <Text name="info_online_game_server_master_mod_intaller">Installiert ein vollständiges Feature-Paket, das die Spielfunktionen verbessert und den Online-Spielmodus ermöglicht*.
 
 * XLink Kai und ein PC sind erforderlich.</Text>
 	<Text name="msg_online_game_server_master_mod_update_patch">Spiel-Update-Patch</Text>
@@ -2799,7 +2799,7 @@ Hinweis: Die Option für die System-Hintergrundmusik muss erneut aktiviert werde
 	<Text name="info_game_data_manager_folders_saved_data_user">Verwaltet den Ordner für gespeicherte Daten des Benutzers.</Text>
 	<Text name="msg_full_system_backup">System-Sicherung</Text>
 	<Text name="info_full_system_backup">Sichert/Wiederherstellt eine vollständige Momentaufnahme des Systemspeichers.</Text>
-        <Text name="msg_system_backup">Systemspeicher sichern</Text>
+    <Text name="msg_system_backup">Systemspeicher sichern</Text>
 	<Text name="info_system_backup">Erstellt eine vollständige Sicherung des Systemspeichers.</Text>
 	<Text name="msg_system_backup_item">Systemspeicher sichern?</Text>
 	<Text name="msg_system_restore">Systemspeicher wiederherstellen</Text>
@@ -2899,7 +2899,7 @@ Hinweis: Die Option für die System-Hintergrundmusik muss erneut aktiviert werde
 	<Text name="msg_firmware_backup_usb">Firmware-Zustand (USB)</Text>
 	<Text name="info_firmware_backup_usb">Erstellt eine Sicherung von "dev_flash/" in "dev_usb000/".</Text>
 	<Text name="msg_firmware_backup_usb_item">Firmware-Zustand auf USB-Gerät sichern?</Text>
-        <Text name="info_firmware_restore_1">Stellt eine Sicherung von "dev_flash/" von Slot 1 wieder her.</Text>
+    <Text name="info_firmware_restore_1">Stellt eine Sicherung von "dev_flash/" von Slot 1 wieder her.</Text>
 	<Text name="msg_firmware_restore_1_item">Firmware-Zustand von Slot 1 wiederherstellen?</Text>
 	<Text name="info_firmware_restore_2">Stellt eine Sicherung von "dev_flash/" von Slot 2 wieder her.</Text>
 	<Text name="msg_firmware_restore_2_item">Firmware-Zustand von Slot 2 wiederherstellen?</Text>
@@ -2999,7 +2999,7 @@ Hinweis: Der Patch ist nur während dieser Sitzung aktiv und muss nach einem Neu
 	<Text name="info_fps_counter_overlays_cpu">Aktiviert/Deaktiviert das CELL.be-Temperatur-Informations-Overlay.</Text>
 	<Text name="msg_fps_counter_overlays_gpu">GPU-Temperatur</Text>
 	<Text name="info_fps_counter_overlays_gpu">Aktiviert/Deaktiviert das RSX-Temperatur-Informations-Overlay.</Text>
-        <Text name="msg_fps_counter_overlays_ram">RAM-Nutzung</Text>
+    <Text name="msg_fps_counter_overlays_ram">RAM-Nutzung</Text>
 	<Text name="info_fps_counter_overlays_ram">Aktiviert/Deaktiviert das RAM-Informations-Overlay.</Text>
 	<Text name="msg_fps_counter_overlays_fan_speed">Lüftergeschwindigkeit</Text>
 	<Text name="info_fps_counter_overlays_fan_speed">Aktiviert/Deaktiviert das Lüftergeschwindigkeits-Informations-Overlay.</Text>
@@ -3299,7 +3299,7 @@ Hinweis: Das OtherOS muss zuvor auf dem System installiert worden sein.</Text>
 	<Text name="info_ftp_disable">Deaktiviert die FTP-Verbindung auf Port 21.</Text>
 	<Text name="msg_dump_flash">Flash dumpen</Text>
 	<Text name="info_dump_flash">Speichert den NOR/NAND-Flash unter "dev_hdd0/tmp/" oder "dev_usb/".</Text>
-        <Text name="msg_dump_ram">RAM dumpen</Text>
+    <Text name="msg_dump_ram">RAM dumpen</Text>
 	<Text name="info_dump_ram">Speichert den Systemspeicher im Stammverzeichnis von "dev_hdd0" oder "dev_usb/".</Text>
 	<Text name="msg_dump_sysrom">SYSROM dumpen</Text>
 	<Text name="info_dump_sysrom">Speichert den SYSROM-Flash unter "dev_hdd0/tmp/" oder "dev_usb/".</Text>
@@ -3399,7 +3399,7 @@ Bitte installieren Sie das PS3™ 4K Pro System neu.</Text>
 	<Text name="info_create_system_folders_webman">Erstellt Standardordner auf dem Systemspeicher.</Text>
 	<Text name="msg_refresh_content">Inhaltsliste aktualisieren</Text>
 	<Text name="info_refresh_content">Sucht nach neu installiertem Blu-ray- und DVD-Inhalt.</Text>
-        <Text name="msg_java_game_downloader">Java-Spiele</Text>
+    <Text name="msg_java_game_downloader">Java-Spiele</Text>
 	<Text name="info_java_game_downloader">Lädt Homebrew-Spiele im BD-J-Format herunter und installiert sie.</Text>
 	<Text name="msg_user_tools">Benutzer-Tools</Text>
 	<Text name="info_user_tools">Eine Reihe von Tools zur Änderung des Benutzerkontos und der Einstellungen.</Text>
@@ -3499,7 +3499,7 @@ Wenn der Vorgang abgeschlossen ist, wird das XMB™ automatisch neu geladen.</Te
 	<Text name="msg_game_folders">Spieleordner</Text>
 	<Text name="msg_online_game_server_patch">Spiele-Patches</Text>
 	<Text name="info_online_game_server_patch">Benutzerdefinierte Online-Server, die Änderungen an den Spieldateien erfordern.</Text>
-        <Text name="info_online_game_server_patch_item">Patcht die Dateien dieses Spieletitels, um den benutzerdefinierten Online-Spieleserver zu unterstützen.</Text>
+    <Text name="info_online_game_server_patch_item">Patcht die Dateien dieses Spieletitels, um den benutzerdefinierten Online-Spieleserver zu unterstützen.</Text>
 	<Text name="msg_game_online_server">Online-Modus</Text>
 	<Text name="info_game_online_server">Patcht die Spieldateien, um den Online-Modus wiederherzustellen.</Text>
 	<Text name="info_game_modifications_mod_menu_version">Lädt das Modifikationsmenü für diese Version herunter und installiert es.</Text>
@@ -3599,7 +3599,7 @@ Hinweis: System Update Debug muss über [Einstellungen] > [Debug-Einstellungen] 
 	<Text name="msg_rebug_toolbox_indi">Zugriff auf alle INDI Info Manager-Dienste</Text>
 	<Text name="info_rebug_toolbox_indi">Aktiviert/Deaktiviert den INDI-Zugriff.</Text>
 	<Text name="msg_rebug_toolbox_um">Update Manager EEPROM-Schreibzugriff</Text>
-        <Text name="info_rebug_toolbox_um">Patcht den Zugriff des Update-Managers auf das EEPROM.</Text>
+    <Text name="info_rebug_toolbox_um">Patcht den Zugriff des Update-Managers auf das EEPROM.</Text>
 	<Text name="msg_rebug_toolbox_dm">Zugriff auf den Dispatch-Manager</Text>
 	<Text name="info_rebug_toolbox_dm">Patcht den Zugriff des Dispatch-Managers auf alle Dienste.</Text>
 	<Text name="msg_rebug_toolbox_enc">ENCDEC IOCTL-Befehl zulassen</Text>
