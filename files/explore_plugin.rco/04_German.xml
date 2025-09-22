@@ -1198,7 +1198,7 @@ RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
 	<Text name="msg_dump_tools">Sicherungswerkzeuge</Text>
 	<Text name="msg_recovery_menu">Service-Tools</Text>
 	<Text name="info_recovery_menu">Einstellungen, die nur fortgeschrittenen Benutzern vorbehalten sind.</Text>
-        <Text name="msg_ingame_settings">In-Game-Einstellungen</Text>
+    <Text name="msg_ingame_settings">In-Game-Einstellungen</Text>
 	<Text name="info_ingame_settings">Aktiviert spezielle Funktionen während des Spiels.</Text>
 	<Text name="msg_dev_blind_toggle">Flash-Speicherzugriff</Text>
 	<Text name="info_dev_blind_toggle">Aktiviert/Deaktiviert den Schreibzugriff auf den Flash-Speicher.</Text>
