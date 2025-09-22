@@ -2497,7 +2497,7 @@ Hinweis: Das Aktivieren des systemreservierten Speicherplatzes blockiert 8% des 
 
 Hinweis: Die Anmeldung beim PlayStation™Network mit aktivierten benutzerdefinierten Jailbreak-Syscalls kann gefährlich sein; das System könnte erkannt und gesperrt werden.</Text>
 	<Text name="msg_webman_syscalls_disable_item">Benutzerdefinierte Syscalls deaktivieren?</Text>
-        <Text name="info_webman_syscalls_disable_item">Drücke , um fortzufahren, oder , um zurückzugehen.</Text>
+    <Text name="info_webman_syscalls_disable_item">Drücke , um fortzufahren, oder , um zurückzugehen.</Text>
 
 Achtung: Inoffizielle Software funktioniert nicht. Die Anmeldung beim PlayStation Network ist jedoch sicherer.</Text>
 	<Text name="msg_webman_syscalls_official">Offizielle Syscalls</Text>
